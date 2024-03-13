@@ -1,6 +1,6 @@
 ## NIEOD
 **Zhong Yuan**, Xianyong Zhang*, Shan Feng, 
-[Hybrid data-driven outlier detection based on neighborhood information entropy and its developmental measures](Paper/2023-NIEOD.pdf), 
+[Hybrid data-driven outlier detection based on neighborhood information entropy and its developmental measures](Paper/2018-NIEOD.pdf), 
 Expert Systems With Applications, vol. 112, Pages 243-257, 6 June 2018, DOI: [10.1016/j.eswa.2018.06.013](https://doi.org/10.1016/j.eswa.2018.06.013). (Code)
 
 ## Abstract
