@@ -39,7 +39,7 @@ out_scores =
 ```
 
 ## Citation
-If you find WFRDA useful in your research, please consider citing:
+If you find NIOED useful in your research, please consider citing:
 ```
 @article{yuan2018hybrid,
   title={Hybrid data-driven outlier detection based on neighborhood information entropy and its developmental measures},
